@@ -1,0 +1,7 @@
+Sample Output
+
+Text: Hello
+Text: llo
+Text: Hello
+Text: llo
+Text: lloll
